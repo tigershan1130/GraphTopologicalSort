@@ -1,0 +1,4 @@
+﻿  GraphAlgorithm.cpp
+D:\C++ConsolePractice\GraphAlgorithm\GraphAlgorithm\AdjacencyListGraph.h(224,21): warning C4018: '<': signed/unsigned mismatch
+D:\C++ConsolePractice\GraphAlgorithm\GraphAlgorithm\AdjacencyListGraph.h(220): warning C4715: 'Graph::GetID': not all control paths return a value
+  GraphAlgorithm.vcxproj -> D:\C++ConsolePractice\GraphAlgorithm\Debug\GraphAlgorithm.exe
